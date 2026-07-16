@@ -46,7 +46,7 @@
     [["*githubusercontent.com"],"","185.199.108.133"],
     [["*huggingface.co"],"huggingface.cn","3.167.200.113"],
     [["hub.docker.com","auth.docker.io"],"","hub-origin.docker.com"],
-    [["production.cloudflare.docker.com"],"","production.cloudflare.docker.com"],
+    [["production.cloudflare.docker.com"],"","104.16.98.215"],
     [["registry.hub.docker.com","docker.io","www.docker.io","docs.docker.io","blog.docker.io","get.docker.io","notary.docker.io","status.docker.io"],"","elb-io.us-east-1.aws.dckr.io"],
     [["index.docker.io","registry-1.docker.io","registry.docker.io","cdn-registry-1.docker.io"],"","registry.ipv4.docker.com"],
     [["*vercel.app"],"vercel.com","64.29.17.193"],
